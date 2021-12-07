@@ -1,0 +1,31 @@
+INFO:root:this program has strated
+INFO:root:this program has start this function
+INFO:root:this program has start this function
+INFO:root:this is info log
+WARNING:root:this is warning log
+ERROR:root:this is error log
+ERROR:root:this is exception log
+NoneType: None
+INFO:root:this is info log
+WARNING:root:this is warning log
+ERROR:root:this is error log
+ERROR:root:this is exception log
+NoneType: None
+INFO:root:this is info log
+WARNING:root:this is warning log
+ERROR:root:this is error log
+ERROR:root:this is exception log
+NoneType: None
+CRITICAL:root:this is crtical log
+INFO:root:this is info log
+WARNING:root:this is warning log
+ERROR:root:this is error log
+ERROR:root:this is exception log
+NoneType: None
+CRITICAL:root:this is crtical log
+INFO:root:this is info log
+WARNING:root:this is warning log
+ERROR:root:this is error log
+ERROR:root:this is exception log
+NoneType: None
+CRITICAL:root:this is crtical log

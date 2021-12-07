@@ -1,0 +1,12 @@
+1. Load data
+2. profile of data report
+3. analyse the data in utf8 charector report
+4. nan do inputation 
+5. non normal 
+6. check multicolinarity
+7. build the model
+8. save it in pickle
+9. model accuracy
+10. test case
+
+Y air temprature 

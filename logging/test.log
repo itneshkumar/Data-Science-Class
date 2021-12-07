@@ -1,0 +1,52 @@
+2021-04-24 10:30:31,792 this is first error
+2021-04-24 10:31:13,232 this is first error
+2021-04-24 10:31:34,055 this is first error
+2021-04-24 10:38:07,753 error has occured
+2021-04-24 10:38:07,754 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-28-c1d3a9b5c044>", line 3, in test
+    div=a/b
+ZeroDivisionError: division by zero
+2021-04-24 10:39:02,509 error has occured
+2021-04-24 10:39:02,509 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-30-aff383aa596c>", line 4, in test
+    div=a/b
+ZeroDivisionError: division by zero
+2021-04-24 10:39:48,391 error has occured
+2021-04-24 10:39:48,391 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-33-67daf73d0c40>", line 4, in test
+    div=a/b
+ZeroDivisionError: division by zero
+2021-04-29 05:52:43,548 this is my first log code
+2021-04-29 05:52:44,307 this is first warning
+2021-04-29 05:52:45,426 this is first error
+2021-04-29 05:52:47,525 error has occured
+2021-04-29 05:52:47,526 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-10-67daf73d0c40>", line 4, in test
+    div=a/b
+ZeroDivisionError: division by zero
+2021-04-29 05:52:49,691 this program has start this function
+2021-04-29 05:52:50,394 this program has start this function
+2021-04-29 05:52:52,068 this is info log
+2021-04-29 05:52:52,069 this is warning log
+2021-04-29 05:52:52,069 this is error log
+2021-04-29 05:52:52,069 this is exception log
+NoneType: None
+2021-04-29 05:52:52,070 this is crtical log
+2021-04-29 05:52:53,883 this is my sum function
+2021-04-29 05:52:53,884 4
+2021-04-29 05:52:53,884 6
+2021-04-29 05:52:53,885 5
+2021-04-29 05:52:53,885 6
+2021-04-29 05:52:54,693 this is my log file
+2021-04-29 05:52:54,693 this is my error file
+2021-04-29 05:52:54,694 this is my exception file
+NoneType: None
+2021-04-29 05:52:54,694 this is my warning file
+2021-04-29 05:52:54,695 this is my critical file
+2021-04-29 05:53:00,170 this is my first test code for log
+2021-04-29 05:58:45,943 this is info for logger one
+2021-04-29 05:58:45,946 this is info for logger two
